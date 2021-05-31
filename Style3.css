@@ -1,0 +1,249 @@
+body {
+  background-image: url(https://www.ngoisaoso.vn/uploads/news/2015/03/19/Best-Website-Background-Images24.gif);
+}
+
+nav .brand {
+  float: left;
+  height: 100%;
+  line-height: 50px;
+}
+
+nav .brand h2 {
+  color: #FFFFFF;
+  font-size: x-large;
+  font-family: Roboto;
+  padding: 0;
+}
+
+nav ul {
+  float: right;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  font-size: x-large;
+  font-family: Roboto;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  position: relative;
+  display: block;
+  color: #FFFFFF;
+  height: 80px;
+  line-height: 80px;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0,5s;
+}
+
+.section1 img {
+  position: relative;
+  width: 1575px;
+  height: 800px;
+}
+.titel {
+  position: absolute;
+  bottom: 400px;
+  top: 400px;
+  width: 100%;
+  color: #FFFFFF;
+  font-size: 40px;
+  font-family: Roboto;
+  text-align: center;
+}
+
+
+.bild1 img {
+  position: relative;
+  width: 1575px;
+  height: 600px;
+}
+.titel1 h2 {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: center;
+  font-size: 40px;
+  top: 20px;
+  bottom: 20px;
+}
+.text1 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: left;
+  font-size: 20px;
+}
+.text1 ul {
+  margin: 30px;
+  padding: 0;
+}
+.text1 ul li {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 20px;
+  text-align: left;
+}
+
+
+
+
+.bild2 img {
+  position: relative;
+  width: 1575px;
+  height: 600px;
+}
+.titel2 h2 {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: center;
+  font-size: 40px;
+  top: 20px;
+  bottom: 20px;
+}
+.text2 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: left;
+  font-size: 20px;
+}
+.text2 ul {
+  margin: 30px;
+  padding: 0;
+}
+.text2 ul li {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 20px;
+  text-align: left;
+}
+
+
+
+
+
+
+.bild3 img {
+  position: relative;
+  width: 1575px;
+  height: 600px;
+}
+.titel3 h2 {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: center;
+  font-size: 40px;
+  top: 20px;
+  bottom: 20px;
+}
+.text3 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: left;
+  font-size: 20px;
+}
+.text3 ul {
+  margin: 30px;
+  padding: 0;
+}
+.text3 ul li {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 20px;
+  text-align: left;
+}
+
+
+
+
+
+.bild4 img {
+  position: relative;
+  width: 1575px;
+  height: 600px;
+}
+.titel4 h2 {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: center;
+  font-size: 40px;
+  top: 20px;
+  bottom: 20px;
+}
+.text4 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: left;
+  font-size: 20px;
+}
+.text4 ul {
+  margin: 30px;
+  padding: 0;
+}
+.text4 ul li {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 20px;
+  text-align: left;
+}
+
+
+
+
+
+
+.bild5 img {
+  position: relative;
+  width: 1575px;
+  height: 600px;
+}
+.titel5 h2 {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: center;
+  font-size: 40px;
+  top: 20px;
+  bottom: 20px;
+}
+.text5 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  text-align: left;
+  font-size: 20px;
+}
+.text5 ul {
+  margin: 30px;
+  padding: 0;
+}
+.text5 ul li {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 20px;
+  text-align: left;
+}
+
+
+
+
+
+.wrapper {
+  display: grid;
+}

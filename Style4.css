@@ -1,0 +1,72 @@
+body {
+  background-image: url(https://www.ngoisaoso.vn/uploads/news/2015/03/19/Best-Website-Background-Images24.gif);
+}
+
+nav .brand {
+  float: left;
+  height: 100%;
+  line-height: 50px;
+}
+
+nav .brand h2 {
+  color: #FFFFFF;
+  font-size: x-large;
+  padding: 0;
+}
+
+nav ul {
+  float: right;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  font-size: x-large;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  position: relative;
+  display: block;
+  color: #FFFFFF;
+  height: 80px;
+  line-height: 80px;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0,5s;
+}
+
+.section1 img {
+  position: relative;
+  width: 1575px;
+  height: 800px;
+}
+.titel {
+  position: absolute;
+  bottom: 400px;
+  top: 400px;
+  width: 100%;
+  color: #FFFFFF;
+  font-size: 40px;
+  font-family: Roboto;
+  text-align: center;
+}
+
+
+.kontakt ul {
+  margin: 50px 50px 50px 50px;
+  padding: 0;
+}
+.kontakt ul li {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 20px;
+}
+.kontakt ul li a {
+  color: #FFFFFF;
+  text-decoration: none;
+}

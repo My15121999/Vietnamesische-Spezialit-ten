@@ -1,0 +1,149 @@
+body {
+  background-image: url(https://www.ngoisaoso.vn/uploads/news/2015/03/19/Best-Website-Background-Images24.gif);
+}
+
+nav .brand {
+  float: left;
+  height: 100%;
+  line-height: 50px;
+}
+
+nav .brand h2 {
+  color: #FFFFFF;
+  font-size: x-large;
+  font-family: Playfair Display;
+  padding: 0;
+}
+
+nav ul {
+  float: right;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  font-size: x-large;
+  font-family: Playfair Display;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  position: relative;
+  display: block;
+  color: #FFFFFF;
+  height: 80px;
+  line-height: 80px;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0,5s;
+}
+
+
+.section1 img {
+  position: relative;
+  width: 1575px;
+  height: 800px;
+}
+.titel {
+  position: absolute;
+  bottom: 400px;
+  top: 400px;
+  width: 100%;
+  color: #FFFFFF;
+  font-size: 40px;
+  font-family: Roboto;
+  text-align: center;
+}
+
+
+.bild1 img {
+  position: absolute;
+  width: 750px;
+  height: 800px;
+}
+.text1 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 30px;
+  text-align: center;
+  top: 150px;
+  width: 100%;
+  left: 50px;
+}
+
+.bild2 img {
+  position: relative;
+  width: 800px;
+  right: : 75px;
+  height: 800px;
+}
+.text2 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 30px;
+  text-align: center;
+  top: 200px;
+  width: 100%;
+}
+
+
+.bild3 img {
+  position: relative;
+  width: 750px;
+  height: 800px;
+}
+.text3 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 30px;
+  text-align: center;
+  top: 150px;
+  width: 100%;
+  left: 50px;
+  bottom: 200px;
+}
+
+.bild4 img {
+  position: relative;
+  width: 800px;
+  right: : 75px;
+  height: 800px;
+}
+.text4 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 30px;
+  text-align: center;
+  top: 200px;
+  width: 100%;
+}
+
+.bild5 img {
+  position: relative;
+  width: 750px;
+  height: 800px;
+}
+.text5 p {
+  position: relative;
+  color: #FFFFFF;
+  font-family: Bradley Hand, cursive;
+  font-size: 30px;
+  text-align: center;
+  top: 150px;
+  width: 100%;
+  left: 50px;
+  bottom: 200px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 750px 750px;
+  grid-template-rows: 800px 800px;
+}
